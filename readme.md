@@ -43,7 +43,7 @@ useSelector, useDispatch, useTheme, more to come) .
 Command:<br/>
 
 ```
-npx react-native init AppName --template https://github.com/SMKH-PRO/ReactNative_CodePush_Template.git
+npx react-native init AppName --template https://github.com/MuhammadHaris1/ReactNative_CodePush_Template.git
 ```
 
 ---
